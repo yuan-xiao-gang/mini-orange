@@ -1,0 +1,13 @@
+<!--miniprogram/pages/heart/heart.wxml-->
+<view class="heart">
+  <view class="box1"></view>
+  <view class="box2"></view>
+  <view class="box3"></view>
+  <view class="box4"></view>
+  <view class="box5"></view>
+  <view class="box6"></view>
+  <view class="box7"></view>
+  <view class="box8"></view>
+  <view class="box9"></view>
+</view>
+ <canvas type="2d" id="myCanvas"></canvas>
